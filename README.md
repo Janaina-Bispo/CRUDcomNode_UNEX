@@ -1,5 +1,14 @@
-Estoque de acessórios para carros
-(Dados que serão armazenados: ID, Nome do acessório e preço do acessório)
+Tema do projeto: Estoque de acessórios para carros
+
+Dados a armazenar: ID, nome, preço (de acessórios)
+
+Equipe: Emerson Lucas S Lima e Janaina A Bispo
+
+Vídeo demo/explicação: https://is.gd/lfg9ty
+
+ㅤ
+
+Passo-a-passo de execução dos métodos HTTP
 
 Passo 1: Iniciar o servidor
 - Terminal
